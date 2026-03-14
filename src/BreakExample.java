@@ -14,7 +14,7 @@ public class BreakExample {
 	            if(j==5)
 	                break;
 	            System.out.println("Do-while: " + j);
-	            j++;
+	            System.out.println	("Poonam");            j++;
 	        }while(j<=10);
 
 	        // break in foreach loop
